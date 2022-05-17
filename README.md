@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHENBIN99
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning DL & Linux
+- 🌱 I’m currently learning DL & ML
 - 🏫 I’m studying at FZU
 - 📫 How to reach me --> c_chenbin@foxmail.com
 
