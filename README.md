@@ -5,7 +5,7 @@
 - 📄 This is my [Blog](https://www.cnblogs.com/c-chenbin/)
 - 📫 How to reach me --> c_chenbin@foxmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHENBIN99)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHENBIN99&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
